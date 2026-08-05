@@ -1,3 +1,5 @@
+package theater;
+
 public class Theater {
     private TicketSeller ticketSeller;
 

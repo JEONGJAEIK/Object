@@ -1,3 +1,5 @@
+package theater;
+
 public class Audience {
     private Bag bag;
 

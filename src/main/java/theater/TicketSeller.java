@@ -1,3 +1,5 @@
+package theater;
+
 public class TicketSeller {
     private TicketOffice ticketOffice;
 
